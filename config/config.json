@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "tec123",
+    "database": "Escola",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "tec123",
+    "database": "Escola",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "tec123",
+    "database": "Escola",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
